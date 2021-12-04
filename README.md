@@ -27,6 +27,6 @@ Du coup l'app "principale" se trouve dans le fichier app.py (sans blague) et les
 Y'a pas mal de trucs qui servent à rien mais que j'ai eu la flemme de supprimer qui sont encore présent, mais franchement osef. Bon bah encore bon quiz et bonne chance (même si vous n'en aurez pas besoin^^).
 
 
-PS: j'avais oublié mais y'a aussi pas mal dee fautes d'orthographes (ma touche E est super sensible du coup ça fait commee ça), et franchement flemme de me relire.
+PS: j'avais oublié mais y'a aussi pas mal de fautes d'orthographes (ma touche E est super sensible du coup ça fait commee ça), et franchement flemme de me relire.
 Admirez par vous même ce professionalisme ^^.
 
