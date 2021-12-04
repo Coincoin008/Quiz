@@ -9,7 +9,7 @@
  
  **Ses qualités:**
  
- * Il est drôles (quoique)
+ * Il est drôle (ou pas)
  * (Je cherche d'autres qualités)
  
 
