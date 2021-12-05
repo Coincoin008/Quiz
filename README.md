@@ -4,12 +4,12 @@
 
 
   * Il manque de questions
-  * Ses questions ne sont pas très pertinantes
-  * Il n'y a pas enormement de fonctionnalité
+  * Ses questions ne sont pas forcement très variées
+  * Il n'y a pas enormement de fonctionnalités
  
  **Ses qualités:**
  
- * Il est drôle (ou pas)
+ * Il marche (et c'est déjà bien^^)
  * (Je cherche d'autres qualités)
  
 
@@ -28,5 +28,5 @@ Y'a pas mal de trucs qui servent à rien mais que j'ai eu la flemme de supprimer
 
 
 PS: j'avais oublié mais y'a aussi pas mal de fautes d'orthographes (ma touche E est super sensible du coup ça fait commee ça), et franchement flemme de me relire.
-Admirez par vous même ce professionalisme ^^.
+Admirez par vous même ce professionalisme^^.
 
